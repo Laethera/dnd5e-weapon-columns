@@ -1,0 +1,15 @@
+/* Style for the new columns in the Weapons section */
+.inventory-list .item-list .item-header .range,
+.inventory-list .item-list .item-header .to-hit,
+.inventory-list .item-list .item-header .damage {
+  width: 80px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.inventory-list .item-list .item.weapon .range,
+.inventory-list .item-list .item.weapon .to-hit,
+.inventory-list .item-list .item.weapon .damage {
+  width: 80px;
+  text-align: center;
+}
