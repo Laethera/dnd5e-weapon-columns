@@ -1,10 +1,11 @@
 {
+  "name": "dnd5e-weapon-columns",
   "id": "dnd5e-weapon-columns",
   "title": "DnD5e Weapon Columns",
   "description": "Adds range, to hit, and damage columns to the Weapons section in the Inventory tab of a Player Character Sheet in the dnd5e system.",
   "version": "1.0.5",
   "manifest": "https://raw.githubusercontent.com/Laethera/dnd5e-weapon-columns/main/module.json",
-"download": "https://github.com/Laethera/dnd5e-weapon-columns/releases/download/v1.0.5/dnd5e-weapon-columns.zip",
+  "download": "https://github.com/Laethera/dnd5e-weapon-columns/releases/download/v1.0.5/dnd5e-weapon-columns.zip",
   "compatibility": {
     "minimum": "10.0.0",
     "verified": "12"
